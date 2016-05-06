@@ -12,5 +12,6 @@
   <project path="tools" name="Sony-Xperia-Z5-Zachary/tools" />
   <project path="flyme/release" name="Sony-Xperia-Z5-Zachary/flyme-release"/>
   <project path="flyme/overlay" name="Sony-Xperia-Z5-Zachary/flyme-overlay" />
-  <project path="devices/base" name="Sony-Xperia-Z5-Zachary/devices-cancro" />
+  <project path="devices/base" name="Sony-Xperia-Z5-Zachary/devices-base" />
+  <project path="plugins" name="Sony-Xperia-Z5-Zachary/plugins" />
 </manifest>
